@@ -18,8 +18,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-downstream-keyer.git
-        tag: 0.4.0
-        commit: d467070846e703a6d7857778db20ddf982b08379
+        tag: 0.4.1
+        commit: 317b6a94e571b37f23a5928064584af059b17cdc
         x-checker-data:
           type: git
           is-main-source: true
